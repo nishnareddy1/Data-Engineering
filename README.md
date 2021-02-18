@@ -10,3 +10,11 @@
 - Learn and Iterate - starting the whole process over again by creating new assertions.
 - Resolve the Violations - Helps you to refine your existing assertions.
 - Retest- Validate the data again.
+# Data Storage
+- Various ways to load data into a Postgres database.
+- Simple inserts
+- Drop Indexes and Constraints
+- Use UNLOGGED table
+- Temp Table with memory tuning
+- Batching
+- copy_from
