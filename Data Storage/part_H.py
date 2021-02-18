@@ -13,7 +13,7 @@ TableName = 'Censuscopy'
 Datafile = "acs2017_census_tract_data.csv"  # name of the data file to be loaded
 CreateDB = False  # indicates whether the DB table should be (re)-created
 Year = 2017
-dir = "/home/sukanya2/generated.csv"
+dir = "/home/aleti/generated.csv"
 
 
 def initialize():
