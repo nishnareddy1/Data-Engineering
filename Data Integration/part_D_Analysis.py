@@ -36,7 +36,7 @@ for i in oregon:
 # USA
 all=[]
 for row in lis:
-    R=(df[row[0]].lis(df[row[1]]),row[0],row[1])
+    R=(df[row[0]].corr(df[row[1]]),row[0],row[1])
     all.append(R)
 
 for i in all:
